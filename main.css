@@ -18,10 +18,10 @@ ul {
   margin: 0;
   padding: 0;
 @@ -231,7 +233,9 @@ ul li {
-.features__item_coach::before {
-  background-image: url(../icons/painter-palette_icon.png);
+.features__item_vantage::before {
+  background-image: url(./img/14530_gallery.jpg);
 }
- .features__item_coach {
+ .features__item_included {
   margin-right: 0;
 }
 .features__text-title {
