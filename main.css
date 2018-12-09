@@ -39,9 +39,6 @@ ul {
   color: #676768;
 }
 .features__title {
-    letter-spacing: 0.2em;
-    font-weight: bold;
-  @@ -255,6 +259,7 @@ ul li {
     border: 1px solid purple;
 }
     .features__text-item {
