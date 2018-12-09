@@ -1,3 +1,47 @@
 .description {
     border: 1px solid purple;
 }
+@font-face {
+    font-family: 'GothaProBol';
+    src: url("./fonts/GothaProBol.otf") format('woff2'),
+         url("./fonts/GothaProBol.otf") format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ .wrapper {
+  min-width: 1100px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+@@ -231,7 +233,9 @@ ul li {
+.features__item_vantage::before {
+  background-image: url(./img/14530_gallery.jpg);
+}
+ .features__item_included {
+  margin-right: 0;
+}
+.features__text-title {
+  letter-spacing: 0.2em;
+  font-weight: bold;
+@@ -255,6 +259,7 @@ ul li {
+.features__text-item {
+  list-style: disc;
+  text-align: start;
+  margin-left: 10px;
+}
+ .news {
+@@ -307,16 +312,16 @@ ul li {
+  color: #676768;
+}
+ 
+}
+ .news__desc-text {
+  font-weight: 300;
+  font-size: 18px;
+  margin: 0;
+}
+ .news__item_no-border {
