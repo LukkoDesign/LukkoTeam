@@ -201,3 +201,35 @@ address {
   .menu__item {
     margin-bottom: 29px;
   }
+  .features__icon {
+    margin: 0 auto 30px;
+  }
+  
+  .features__text-title {
+    color: #221f1f;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    margin: 0px auto 17px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .features__text {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  
+  .features__text-desc {
+    text-align: center;
+  }
+  
+  .features__text-item {
+    padding: 5px 0 0;
+  }
+  
+  .features__text-item::before {
+    content: "\2022";
+    color: #ec1e79;
+    margin: 0 26px;
+  }
