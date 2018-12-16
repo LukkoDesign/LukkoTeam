@@ -203,6 +203,7 @@ address {
   }
   .features__icon {
     margin: 0 auto 30px;
+    text-align: center
   }
   
   .features__text-title {
