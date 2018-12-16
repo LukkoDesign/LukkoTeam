@@ -166,8 +166,8 @@ address {
   }
   
   .header__num {
-    color: #fff;
-    font-size: 21px;
+    color: #1ce0e0;
+    font-size: 23px;
     font-weight: bold;
     -webkit-transition: .5s;
     transition: .5s;
@@ -177,7 +177,7 @@ address {
     position: relative;
     font-family: 'OpenSans', "Arial Narrow", sans-serif;
     opacity: 0.7;
-    color: #eff313;
+    color: #e2df17;
     font-size: 17px;
     text-decoration: underline;
     font-weight: bold;
