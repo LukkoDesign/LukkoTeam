@@ -177,8 +177,8 @@ address {
     position: relative;
     font-family: 'OpenSans', "Arial Narrow", sans-serif;
     opacity: 0.7;
-    color: #ec1e79;
-    font-size: 14px;
+    color: #eff313;
+    font-size: 17px;
     text-decoration: underline;
     font-weight: bold;
     text-align: right;
@@ -189,8 +189,15 @@ address {
     outline: none;
   }
   
-  .about {
+  .menu {
     background: #27273e;
     margin-bottom: 20px;
   }
+  .about__img {
+    height: 359px;
+    background: #27273e url('./img/banner.jpg') center center no-repeat;
+  }
   
+  .menu__item {
+    margin-bottom: 29px;
+  }
