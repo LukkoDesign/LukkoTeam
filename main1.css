@@ -203,7 +203,9 @@ address {
   }
   .features__icon {
     margin: 0 auto 30px;
-    text-align: center
+    img/flower.png: center;
+    img/star.png: center;
+    img/palette.png: center
   }
   
   .features__text-title {
