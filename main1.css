@@ -152,11 +152,11 @@ address {
     align-items: center;
   }
   
-  .header__link {
+  .logo__link {
     display: inline-block;
   }
   
-  .header__contact {
+  .header__contacts {
     text-align: right;
     display: -webkit-box;
     display: flex;
@@ -165,7 +165,7 @@ address {
     flex-direction: column;
   }
   
-  .header__tel {
+  .header__num {
     color: #fff;
     font-size: 21px;
     font-weight: bold;
