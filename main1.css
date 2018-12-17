@@ -228,9 +228,6 @@ address {
     background: url('./img/wallet.png') center center no-repeat;
   }
   
-  .footer__social-icon-fb {
-    background: url('./img/fb.png') center center no-repeat;
-  }
   .features__text-title {
     color: #221f1f;
     font-size: 11px;
@@ -259,3 +256,79 @@ address {
     color: #ec1e79;
     margin: 0 26px;
   }
+
+
+   
+  .footer__social {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-flex: 0;
+    flex: 0 1 172px;
+  }
+  
+  .footer__social-title {
+    text-align: right;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 9px;
+  }
+  
+  .footer__social-icons {
+    display: -webkit-box;
+    display: flex;
+  }
+  
+  .footer__social-icon {
+    margin-right: 10px;
+    height: 20px;
+    width: 20px;
+    display: block;
+    background: #d4d4d8 url('./img/logo1.png') 0 0 no-repeat;
+    border-radius: 50%;
+  }
+  
+  .footer__social-icon-vk {
+    background: #20b4d9 url('./img/vk.png') 0 0 no-repeat;
+  }
+  
+  .footer__social-icon-fb {
+    background-position-x: -100px;
+  }
+  
+  .footer__social-icon-fb:hover {
+    background: #20b4d9 url('./img/fb.png') -100px 0 no-repeat;
+  }
+  
+  .footer__social-icon-google {
+    background-position-x: -200px;
+  }
+  
+  .footer__social-icon-google:hover {
+    background: #20b4d9 url('./img/gp.png') -200px 0 no-repeat;
+  }
+  
+  .footer__social-icon-instagram {
+    background-position-x: -300px;
+  }
+  
+  .footer__social-icon-instagram:hover {
+    background: #20b4d9 url('./img/instagram.png') -300px 0 no-repeat;
+  }
+  
+  .footer__social-icon-mail {
+    background-position-x: -400px;
+  }
+  
+  .footer__social-icon-mail:hover {
+    background: #20b4d9 url('./img/mail.png') -400px 0 no-repeat;
+  }
+  
+  .footer__social-link {
+    padding: 15px 10px 6px;
+    font-size: 0;
+  }
+  
