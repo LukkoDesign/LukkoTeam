@@ -228,6 +228,9 @@ address {
     background: url('./img/wallet.png') center center no-repeat;
   }
   
+  .footer__social-icon-fb {
+    background: url('./img/fb.png') center center no-repeat;
+  }
   .features__text-title {
     color: #221f1f;
     font-size: 11px;
