@@ -284,8 +284,8 @@ address {
   
   .footer__social-icon {
     margin-right: 10px;
-    height: 20px;
-    width: 20px;
+    height: 40px;
+    width: 40px;
     display: block;
     background: #d4d4d8 url('./img/logo1.png') 0 0 no-repeat;
     border-radius: 50%;
