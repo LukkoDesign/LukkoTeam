@@ -206,6 +206,7 @@ address {
     img/flower.png: center;
     img/star.png: center;
     img/palette.png: center
+    padding: 10px
   }
   
   .menu__icon {
