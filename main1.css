@@ -202,11 +202,10 @@ address {
     margin-bottom: 29px;
   }
   .features__icon {
-    margin: 0 auto 30px;
+    margin: 10px auto 30px;
     img/flower.png: center;
     img/star.png: center;
     img/palette.png: center
-    padding: 10px
   }
   
   .menu__icon {
